@@ -1,2 +1,2 @@
 # GlanGuide
-An accessibility checker created as part of Final Year Project
+An accessibility checker created as part of my Final Year Project
