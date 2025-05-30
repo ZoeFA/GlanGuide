@@ -1,0 +1,16 @@
+{
+  "name": "clearview-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "react-router-dom": "^7.2.0",
+    "rxjs": "^7.8.1",
+    "vite": "^5.4.11"
+  }
+}

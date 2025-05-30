@@ -1,0 +1,155 @@
+1
+00:00:02,310 --> 00:00:04,891
+Welcome, this is a tutorial on
+
+2
+00:00:04,891 --> 00:00:07,042
+how to use GlánGuide.
+
+3
+00:00:07,473 --> 00:00:10,054
+GlánGuide is an accessibility checker in
+
+4
+00:00:10,054 --> 00:00:12,635
+which you can enter a URL
+
+5
+00:00:12,635 --> 00:00:15,216
+of any specific website or web
+
+6
+00:00:15,216 --> 00:00:17,798
+page and it will grade on
+
+7
+00:00:17,798 --> 00:00:20,379
+how accessible this web page is
+
+8
+00:00:20,379 --> 00:00:22,530
+on a variety of parameters.
+
+9
+00:00:24,400 --> 00:00:27,146
+To start off, will take this
+
+10
+00:00:27,146 --> 00:00:29,892
+URL here to the Tea Dublin
+
+11
+00:00:29,892 --> 00:00:32,725
+homepage. I'm inserting it into
+
+12
+00:00:32,725 --> 00:00:34,450
+the top input field.
+
+13
+00:00:35,320 --> 00:00:37,934
+And pressing 'Check'. This
+
+14
+00:00:37,934 --> 00:00:40,776
+is now printing out the code
+
+15
+00:00:40,776 --> 00:00:43,618
+to this web page, which you
+
+16
+00:00:43,618 --> 00:00:46,460
+can minimise by pressing the 'Collapse
+
+17
+00:00:46,460 --> 00:00:49,303
+Code' button and maximising by pressing
+
+18
+00:00:49,303 --> 00:00:52,195
+'Expand Code'. I can
+
+19
+00:00:52,195 --> 00:00:55,109
+filter this code into
+
+20
+00:00:55,109 --> 00:00:58,022
+images, anchors, alt text, links,
+
+21
+00:00:58,022 --> 00:01:01,017
+buttons, input fields. To do
+
+22
+00:01:01,017 --> 00:01:03,723
+so, I click on one such filter such
+
+23
+00:01:03,723 --> 00:01:06,092
+as images and then press the 'Filter'
+
+24
+00:01:06,092 --> 00:01:06,430
+button.
+
+25
+00:01:10,590 --> 00:01:13,251
+The accessibility grade. A
+
+26
+00:01:13,251 --> 00:01:16,057
+can be filtered as well. It can
+
+27
+00:01:16,057 --> 00:01:18,710
+grade per the filter. Or
+
+28
+00:01:18,710 --> 00:01:21,290
+across the whole web page. Each
+
+29
+00:01:21,290 --> 00:01:23,870
+error and warning is listed below.
+
+30
+00:01:23,870 --> 00:01:26,450
+Errors are in red, warnings are
+
+31
+00:01:26,450 --> 00:01:29,354
+in orange. Down below
+
+32
+00:01:29,354 --> 00:01:32,038
+on the web page are multiple
+
+33
+00:01:32,038 --> 00:01:34,274
+educational articles on the different
+
+34
+00:01:34,274 --> 00:01:36,958
+aspects of accessibility. Here in the
+
+35
+00:01:36,958 --> 00:01:39,641
+How to use GlánGuide is
+
+36
+00:01:39,641 --> 00:01:42,325
+a text based, along with, images
+
+37
+00:01:42,325 --> 00:01:45,008
+how-to tutorial on the use
+
+38
+00:01:45,008 --> 00:01:47,933
+of GlánGuide. Thank you and
+
+39
+00:01:47,933 --> 00:01:49,580
+I hope this video was informative.
